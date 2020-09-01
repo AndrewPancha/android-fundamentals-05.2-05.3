@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pancha/AndroidStudioProjects/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/pancha/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/94d963ebe4f96548327f71d8361383e5/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Sep 01 10:21:44 EEST 2020
+base.0=/home/pancha/AndroidStudioProjects/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

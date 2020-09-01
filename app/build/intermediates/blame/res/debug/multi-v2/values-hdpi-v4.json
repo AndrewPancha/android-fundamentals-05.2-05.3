@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pancha/AndroidStudioProjects/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/pancha/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/94d963ebe4f96548327f71d8361383e5/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
