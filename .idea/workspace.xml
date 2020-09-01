@@ -6,13 +6,23 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="739a9738-b192-460a-bd53-6c4428567546" name="Default Changelist" comment="" />
+    <list default="true" id="739a9738-b192-460a-bd53-6c4428567546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-land/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp-land/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="c79a5ec39806" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -25,7 +35,18 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gsCcU9p3De1RyeIVyg9b1yommv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -134,13 +155,21 @@
       <screen x="67" y="27" width="1213" height="997" />
     </state>
     <state x="256" y="282" width="824" height="484" key="AndroidCreateResourceDirectoryDialog/67.27.1213.997@67.27.1213.997" timestamp="1598941306504" />
+    <state x="256" y="282" width="824" height="484" key="AndroidCreateResourceFileDialog" timestamp="1598946442864">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="256" y="282" width="824" height="484" key="AndroidCreateResourceFileDialog/67.27.1213.997@67.27.1213.997" timestamp="1598946442864" />
     <state x="456" y="282" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598940281251">
       <screen x="67" y="27" width="1213" height="997" />
     </state>
     <state x="456" y="282" width="424" height="484" key="FileChooserDialogImpl/67.27.1213.997@67.27.1213.997" timestamp="1598940281251" />
-    <state x="329" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1598943667960">
+    <state x="268" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598945097074">
       <screen x="67" y="27" width="1213" height="997" />
     </state>
-    <state x="329" y="352" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1598943667960" />
+    <state x="268" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1213.997@67.27.1213.997" timestamp="1598945097074" />
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1598945877897">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1598945877897" />
   </component>
 </project>
